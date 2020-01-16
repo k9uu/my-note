@@ -1,0 +1,2 @@
+Install Apache, MariaDB, PHP, phpMyAdmin (LAMP Stack) di Arch Linux
+..sumber: https://www.emirar.com/2018/04/lampstack-archlinux.html
